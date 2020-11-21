@@ -1,5 +1,7 @@
 .youtube-player {
     position: relative;
+
+    margin-top: 30px;
 }
 
 .player__body {
