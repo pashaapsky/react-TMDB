@@ -5,6 +5,7 @@
 /node_modules
 /.pnp
 .pnp.js
+.firebase
 
 # testing
 /coverage
@@ -14,8 +15,8 @@
 
 # misc
 .DS_Store
-.env.local
-.env.development.local
+.env
+.env.development
 .env.test.local
 .env.production.local
 
